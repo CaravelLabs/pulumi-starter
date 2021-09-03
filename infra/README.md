@@ -11,7 +11,7 @@ Here's how to setup the project for first time use:
    1. [Install Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli#install)
    1. [Install dotenv-cli](https://github.com/entropitor/dotenv-cli)
 
-_The intend of this project is to use Azure as the Pulumi backend for state management and secret provider. This pre-requisite configuration is covered in the following guideline._
+_The intend of this project is to use Azure as the Pulumi backend for state management and secret provider. This pre-requisite configuration is covered in the following [guideline](https://dev.azure.com/CaravelLabs/CL%20Open%20Source%20Initiatives/_wiki/wikis/CL-Open-Source-Initiatives.wiki/157/How-to-setup-Pulumi-to-use-Azure-Blob-Storage-for-state-and-Azure-Key-Vault-for-secret-provider)._
 
 ## Run
 
