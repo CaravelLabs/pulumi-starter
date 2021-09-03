@@ -18,4 +18,4 @@ Follow the instructions in each of the README files for the solution sub-folders
 
 ## Contribute
 
-If you are interested in contributing, you may request access to [Marcos Ocasio](mailto:mocasio@caravellabs.com).
+If you are interested in contributing, you may request access to [Marcos Ocasio](mailto:mocasio@caravellabs.com) or [Jaime Olmo](mailto:mocasio@caravellabs.com).
