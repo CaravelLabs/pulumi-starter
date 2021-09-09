@@ -10,7 +10,7 @@ This project provides the basic elements to configure the Infrastructure as code
 - Web Application
 - Function Application
 
-The language for template configuration is Typescript and the state of the IaC will be Self-Managed and it will reside in Azure. For all the steps needed to configure Azure as the Pulumi backend for managing state and encryption refer to this guide.
+The language for template configuration is Typescript and the state of the IaC will be Self-Managed and it will reside in Azure. For all the steps needed to configure Azure as the Pulumi backend for managing state and encryption refer to [this guide](https://github.com/CaravelLabs/pulumi-starter/wiki/How-to-setup-Pulumi-to-use-Azure-Blob-Storage-for-state-and-Azure-Key-Vault-for-secret-provider).
 
 ## Getting Started
 
