@@ -1,3 +1,7 @@
+# Notice!
+
+This project is no longer actively maintained, please refer to project [terraform-azure-starter](https://github.com/CaravelLabs/terraform-azure-starter) instead.
+
 # Pulumi Starter Project
 
 This project provides the basic elements to configure the Infrastructure as code (IaC) for a solution with the following resources:
